@@ -1,6 +1,7 @@
 # Titanic-survival-predection
 🚢 Titanic Survival Prediction
 📌 Project Overview
+
 This project predicts whether a passenger survived the Titanic disaster based on features such as age, gender, passenger class, and fare.
 🔍 Dataset
 Titanic dataset (Kaggle)
